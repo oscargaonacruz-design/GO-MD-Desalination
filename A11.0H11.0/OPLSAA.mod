@@ -48,7 +48,7 @@ improper_coeff 1 1.100 180
 # Nonbonded Parameters
 pair_coeff 1 1 0.07	3.55 # 1  C
 pair_coeff 2 2 0.07	3.55 # 2  C4
-pair_coeff 3 3 0.628    4.1  # 3  CLA # todavia no 
+pair_coeff 3 3 0.15010    4.10  # 3  CLA 
 pair_coeff 4 4 0.0	0.0 # 4  H1
 pair_coeff 5 5 0.0	0.0 # 5  H4
 
@@ -59,6 +59,6 @@ pair_coeff 9 9 0.21	2.96 # 9  O3
 pair_coeff 10 10 0.17	3.0 # 10  O4 
 
 pair_coeff 11 11 0.1521 3.1507 # 11  OT
-pair_coeff 12 12 0.196  2.45 # 12  SOD 
+pair_coeff 12 12 0.04685  2.45 # 12  SOD 
 
 
